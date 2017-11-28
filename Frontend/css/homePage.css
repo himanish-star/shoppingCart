@@ -1,0 +1,25 @@
+.card-img-top{
+    width: 50%;
+    height: 50%;
+}
+.carder{
+    width: 30%;
+    margin: 1%;
+    padding: 0;
+}
+.card-footer{
+    padding: 0;
+    justify-content:flex-start;
+    bottom: 0;
+}
+.card-body{
+    width: 100%;
+    height: 60%;
+}
+/*
+.pprice{
+    float: left;
+}
+.add-btn{
+    float: right;
+}*/

@@ -1,0 +1,10 @@
+{
+  "Port":3789,
+
+  "Database":{
+    "database":"",
+    "host":"localhost",
+    "password":"",
+    "user":""
+  }
+}
